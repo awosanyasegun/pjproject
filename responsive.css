@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>ukrainian university admission consultancy.com</title>
+	<link href="uuac.css" type="text/css" rel="stylesheet" />
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body>
+<div id="container">
+<nav>
+<div class="navbox">
+<ul>
+  <li><a><i class="fa fa-envelope"></i>ukruniadm@gmail.com</a></li>
+  <li><a><i class="fa fa-phone"></i>+2349072538867</a></li>
+  <li><a><i class="fa fa-phone"></i>+380957770934</a></li>
+</ul>
+</div>
+<div>
+   <img src="uuiac.jpg" id="dp" />
+   <img src="pj3.jpg" id="pj" />
+</div>
+<div class="menu">
+<ul>
+  <li><a href="uuac.html"><i class="fa fa-home"></i>Home</a></li>
+  <li><a href="uuaccon.html"><i class="fa fa-phone"></i>contact</a></li>
+  <li><a href="uuacabout.html"><i class="fa fa-adn"></i>about us</a></li>
+  <li><a href="uuac1.html"><i class="fa fa-registered"></i>Register now</a></li>
+</ul>
+</div>
+</nav>
+<div id="outerbox">
+   <div id="sliderbox">
+    <img id="4" class="im" src="lviv17.jpg" alt="Ternopil National economics university"/>
+	<img id="5" class="im" src="sum.jpg" alt="ivano frankinsk natio"/>
+    <img id="3" class="im" src="kiev.jpg" alt="kiev city"/>
+	<img id="1" class="im" src="ternopil.jpg" alt="Ternopil state medical university"/>
+    <img id="2" class="im" src="buk1.png" alt="vinnytsa national university"/>
+</div>
+<div class="block"> 
+<h1 id="greeting">Welcome to our site!</h1>
+<p class="p1"> Has it always been your dream to study outside your country,<br />
+if your answer is yes then welcome to the right place. At uuiac, our ultimate<br />
+goal is help you bring that dream of your into reality.</p>
+</div>
+
+  <div>
+    
+   	<img  class="mm" src="li.jpg" alt="Ternopil National economics university"/>
+
+  </div>
+ <div id="box">
+  <img id="ukr" src="ukr.jpg"/>
+    <ins> <h2 id="hii">About Ukrainian Higher Education</h2></ins><br />
+      <p>Ukraine, a country located in eastern part of europe over the years<br />
+	  has gained fame and popularity all over the globe as it presents the opportunity
+	  for aspiring students from<span class="note"><em> Africa, America, Asia and the E.U Countries to pursue 
+	  their academic endeavors and desires to study in different disciplines which includes Medicine, Dentistry,Pharmacy, Nursing,
+	  Engineering(Aerospace engineering, Electrical engineering, Computer science, civil engineering,oil and gas, Marine engineering etc), 
+	  , Economics,Biomedical sciences,</em></span> and many more to study at a <b>highly affordable tuition and cost of living compared to schooling in USA
+	  and the E.U countries also the degrees and certificate issued from their universities are recognized in different continents of the world
+	  as many of the ukrainian universities has affiliation with Universities in united-states</b> and other countries in the world.
+	  </p>
+ 
+  </div>
+  
+ <div id="motherbox">
+    <div class="sonbox"> 
+	    <h3 class="hiii">call us Now!</h3>
+	     <p class="call">+380957770934<br />
+	    +2349072538867</p>
+	</div>
+	<div class="sonbox1">
+	 <h3 class="hiii">email us</h3>
+	   <p class="callb">ukruniadm@gmail.com</p> 
+	</div>
+	<div class="sonbox2">
+	 <h3 class="hiiir">Register Today</h3><br />
+	   <p class="callc"><a>click Register above!</a></p>
+	</div></br />
+	<div>
+	 <h1 class="mention"> universities to mention but a few...</h1>
+	 </div>
+    </div>
+    <div id="figcaptions">
+	 <figure class="fig"> <img src="bml.jpg" alt="Bogomolet medical university"> <br />  <figcaption>Bogomolet Medical University</figcaption> </figure> 
+     <figure class="fig"> <img src="daniv01.jpg" alt="Lviv national medical university"> <br />  <figcaption>Lviv national medical university</figcaption> </figure> 
+  	 <figure class="fig"> <img src="dnipro.jpg" alt="Dnipropetrovsk state medical university"> <br />  <figcaption>Dnipropetrovsk state medical university</figcaption> </figure> 
+	 <figure class="fig"> <img src="eco.jpg" alt="Ternopil National economics university"> <br />  <figcaption>Ternopil National economics university</figcaption> </figure> 
+	 <figure class="fig"> <img src="odn.jpg" alt="Odessa national Medical University"> <br />  <figcaption>Odessa national medical university</figcaption> </figure> 
+	 <figure class="fig"> <img src="tnpm.jpg" alt="Ternopil state medical university"> <br />  <figcaption>Ternopil state medical university</figcaption> </figure> 
+	 <figure class="fig"> <img src="vn.jpg" alt="Kharkov national medical university"> <br />  <figcaption>Kharkov Medical National University</figcaption> </figure> 
+	 <figure class="fig"> <img src="vinny.jpg" alt="Kharkov national medical university"> <br />  <figcaption>vinnytsa Medical National University</figcaption> </figure> 
+     <figure class="fig"> <img src="buk1.jpg" alt="Bukovinian national medical university"> <br />  <figcaption>Bukovinian Medical National University</figcaption> </figure> 
+	 <figure class="fig"> <img src="sum1.jpg" alt="sumy state medical university"> <br />  <figcaption>Sumy state medical university</figcaption> </figure> 
+	</div>
+ </div> 
+ <div class="footer"> 
+   <div class="footer1">
+     &#169; GEEKMED WEB DEVELOPER<br />
+	 </div>
+	 <p><a href="uuac1.html">Register now/</a> <a href="uuaccon.html">Contact us</a><p>
+ </div>
+</body>
+</html>

@@ -1,0 +1,374 @@
+*{
+	margin:0px;
+}
+#dp{
+	display:none;
+}
+#pj{
+	width:101.50%;
+	margin-top:-17px;
+}
+
+.footer{
+	background:#d2a960;
+	height:30px;
+	width:100;
+	margin-top:50px;
+	padding-left:0px;
+	padding-top:35px;
+	padding-bottom:25px;
+}
+.footer1{
+	color:white;
+	margin-left:-0x;
+	margin-top:15px;
+}
+
+
+.navbox{
+	background:#d2a960;
+	height:20px;
+}
+.navbox ul{
+	list-style:none;
+	margin:0px;
+	padding:0px
+}
+.navbox ul li{
+ margin-right:10px;
+ float:left;
+ border-right:1px dotted white;
+}
+.navbox ul li a{
+	color:white;
+	text-align:center;
+	padding:10px;
+	margin-right:10px;
+	font-size:10px;
+}
+.menu{
+    background:#d2a960;
+	height:50px;
+	width:100%;
+	padding-left:-20px;
+}
+.menu ul{
+	list-style:none;
+	padding:0px;
+	margin-top:-5px;	
+	margin-left:0px;
+}
+.menu ul li{
+	float:left;
+	margin:0px;
+	padding-left:0px;
+	text-align:center;
+}
+.menu ul li a{
+	font-size:12px;
+	color:#215b8f;
+	padding-right:5px;
+	font-family:arial;
+	line-height:50px;
+	width:70px;
+	display:block;
+}
+.menu ul li a:hover{
+    color:white;
+	background-color:#215b8f;
+	height:50px;
+	font-family:helvetica;
+	transition:0.5s linear;
+}
+#motherbox{
+	width:768px;
+	height:300px;
+	margin-top:30px;
+	margin-left:40px;
+	padding-left:0px;
+	color:white;
+	
+}
+.sonbox{
+	display:none;
+	
+}
+
+.sonbox1{
+	display:none;
+}
+
+.sonbox2{
+	display:none;
+}
+ .call{
+       display:none;	
+}
+.callb{
+	display:none;
+}
+.callc{
+     display:none;
+}
+
+.mention{
+	color:#2F9599;
+	text-align:left;
+	display:block;
+	margin-top:0px;
+	margin-left:-20px;
+	position:relative;
+	font-size:18px;
+	
+}
+
+.fig{
+	width:125px;
+	height:220px;
+	text-align:center;
+	float:left;
+	margin:30px;
+}
+
+#figOut{
+	display:none;
+}
+#figcaptions{
+	margin-top:-240px;
+	margin-left:20px;
+}
+#figOut1{
+	display:none;
+}
+.footer{
+	background:#d2a960;
+	height:30px;
+	margin-top:50px;
+	padding-left:300px;
+	padding-top:35px;
+	padding-bottom:25px;
+}
+.footer1{
+	color:white;
+	margin-left:-200px;
+	margin-top:15px;
+}
+#last{
+	display:none;
+}
+ 
+ 
+/********** cover *****LayOut Greeting**/
+.block{
+    background:linear-gradient(
+	          rgba(0,184,255,0.45),
+	          rgba(0,184,255,0.45)
+	),
+	url(dnipro.jpg);
+	background-size:cover;
+	text-align:left;
+	display:block;
+	height:280px;
+	float:right;
+	position:relative;
+	width:100%;
+	margin-top:-30px;
+	margin-right: 0px;
+}
+#greeting{
+	margin-left:50px;
+	font-size:30px;
+}
+.p1{
+	font-size: 15px;
+	text-align:center;
+}
+#ukr{
+	display:none;
+}
+
+#hii{
+	margin-top:5px;
+	color:white;
+	font-family:arial;
+	font-size:16px;
+}
+.Aboutukr{
+width:310px;
+font-size:13px;	
+text-align:left;
+margin-left:10px;
+}
+#box{
+	background:#2F9599;
+	height:300px;
+	width:768px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	padding:10px;
+}	
+/******Layout greeting ending*********/
+
+
+
+
+.mm{
+    margin-left:0px;
+	height:220px;
+	width:100%;
+}
+#sliderbox{
+	display:none;
+	position:relative;
+	width:4000px;
+	animation-name:jatinder;
+	animation-duration:25s;
+	animation-iteration-count:infinite;
+	margin-top:-60px;
+}
+
+#sliderbox img{
+	float:left;
+	width:600px;
+}
+/*****contact us ***********/
+#pcon{
+	font-size:22px;
+      left:30px;
+}
+#pullconbox{
+	margin-left:60px;
+	margin-top:-80px;
+}
+/*****contact end**********/
+
+/********form session beginning*****/
+#formpara{
+	text-align:left;
+}
+#theForm{
+	color:white;
+	display:table;
+	padding:15px;
+	background-color:#2F9599;
+	margin-left:0px;
+	margin-right:20px;
+	position:relative;
+	width:300px;
+}
+.submit{
+	background-color:yellow;
+	border-radius:10px;
+	width:180px;
+	margin-left:200px;
+}
+.row{
+	display:table-row;	
+}
+.row label,p{
+	display:table-cell;
+	padding:2px;
+	text-align:right;
+	}
+.row input{
+display:table-cell;
+padding:2px;
+}
+#uuac1{
+	font-family:'lato';
+	height:1000px;
+	display:block;
+	background:#f1f1f1;
+	height:1000px;
+	padding:0px;
+	
+}
+#pform{
+	text-align:center;
+	color:white;
+	font-family:segoe arial helvetica;
+	color:black;
+	margin-left:-200px;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+
+.parabutton{
+	text-align:center;
+	margin:20px;
+	margin-left:180px;
+	
+}
+#button{
+	position:relative;
+	left:-80px;
+}
+
+/**********THE FORM ENDING******************************/
+
+
+
+
+
+/******* About session Css***********/
+#about{
+	text-align:center;
+	font-family:Times;
+	height:400px;
+	background:#215b8f;
+	width:100%;
+}
+.aboutwidth{
+	width:100%;
+	margin-left:0px;
+	text-align:left;
+	margin-top:20px;
+	border:1px solid white;
+	height:180px;
+	padding:15px;
+	background:#2F9599;
+	color:white;
+	font-size:12px;
+}
+
+.pabout{
+	text-align:left;
+}
+.h1about{
+	text-align:center;
+}
+
+.h3about{
+	text-align:center;
+}
+.h3aboutlast{
+	text-align:center;
+	margin:15px;
+	color:white;
+	font-size:15px;
+}
+/********About us ending************/
+
+@keyframes jatinder{
+	0%
+	{
+		left:0px;
+	}
+	20%{
+		left:0px;
+	}
+	25%{
+		left:-600px;
+	}
+	45%{
+		left:-600px;
+	}
+	50%{
+		left:-1200px;
+	}
+		
+	100%{
+		left:-1880px;
+	}

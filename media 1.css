@@ -1,0 +1,407 @@
+
+#dp{
+	display:none;
+}
+#pj{
+	width:100.81%;
+	margin-top:0px;
+}
+.menu{
+    background:#d2a960;
+	height:50px;
+	width:100%;
+	padding-left:-20px;
+}
+.menu ul{
+	list-style:none;
+	padding:0px;
+	margin-top:-5px;	
+}
+.menu ul li{
+	float:left;
+	margin:0px;
+	padding-left:0px;
+	text-align:center;
+}
+.menu ul li a{
+	font-size:12px;
+	color:#215b8f;
+	padding-right:10px;
+	font-family:arial;
+	line-height:50px;
+	width:100px;
+	display:block;
+}
+.menu ul li a:hover{
+    color:white;
+	background-color:#215b8f;
+	height:50px;
+	font-family:helvetica;
+	transition:0.5s linear;
+}
+
+#outerbox{
+	width:100%;
+	overflow:hidden;
+	position:relative;
+	margin-top:-10px;
+	
+	}
+#sliderbox{
+	position:relative;
+	width:4000px;
+	animation-name:jatinder;
+	animation-duration:25s;
+	animation-iteration-count:infinite;
+	margin-top:-60px;
+}
+
+#sliderbox img{
+	float:left;
+	width:768px;
+}
+
+
+/***About Higher Education*****/
+#ukr{
+	margin:20px;
+	float:left;
+	height:250px;
+	width:280px;
+	margin-top:20px;
+	margin-left:-5px;
+	margin-right:10px;
+}
+
+#hii{
+	margin-top:25px;
+	color:white;
+	font-family:arial;
+	font-size:18px;
+}
+.Aboutukr{
+width:350px;
+font-size:12px;	
+text-align:left;
+}
+#box{
+	background:#2F9599;
+	height:300px;
+	width:768px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	padding:10px;
+}	
+/******End of Higher Eduaction*****/
+ 
+
+ 
+ /********** 3 advert boxes**************/
+ 
+ #motherbox{
+	width:768px;
+	height:300px;
+	margin-top:30px;
+	margin-left:45px;
+	padding-left:0px;
+	color:white;
+	
+}
+.sonbox{
+	height:200px;
+	background-color:#d2a960;
+	width:20%;
+	float:left;
+	padding-left:50px;
+	text-align:center;
+}
+
+.sonbox1{
+	height:200px;
+	background-color:#2F9599;
+	width:20%;
+	float:left;
+	padding-right:10px;
+	text-align:center;
+	color:white;
+}
+
+.sonbox2{
+	height:200px;
+	background-color:#d2a960;
+	width:20%;
+	float:left;
+	padding-left:50px;
+	text-align:center;
+	color:white;
+}
+ 
+.fig{
+	width:150px;
+	height:240px;
+	text-align:center;
+	float:left;
+	margin:20px;
+}
+
+#figOut{
+	display:none;
+}
+#figcaptions{
+	margin-top:-20px;
+	margin-left:40px;
+}
+ 
+ /********************3 advert boxes ending****/
+ .call{
+	border:2px solid white;
+	width:100px;
+	height:50px;
+	margin-left:30px;
+	margin-top:20px;
+	padding-top:10px;
+	text-align:center;
+}
+.callb{
+	border:2px solid #d2a960;
+	width:125px;
+	height:50px;
+	margin-left:-30px;
+	margin-top:20px;
+	padding-top:10px;
+	text-align:center;
+}
+.callc{
+	border:2px solid white;
+	width:100px;
+	height:50px;
+	margin-left:30px;
+	margin-top:0px;
+	padding-top:10px;
+	text-align:center;
+}
+/******************Ending of 3 advert************/
+ 
+ 
+ 
+ 
+ .block{
+    background:linear-gradient(
+	          rgba(0,184,255,0.45),
+	          rgba(0,184,255,0.45)
+	),
+	url(dnipro.jpg);
+	background-size:cover;
+	text-align:left;
+	display:block;
+	height:280px;
+	float:right;
+	position:relative;
+	width:60%;
+	margin-top:50px;
+	margin-right: 150px;
+}
+.p1{
+	font-size: 15px;
+	text-align:center;
+}
+.mm{
+    margin-left:10px;
+	}
+	
+#greeting{
+	margin-left:50px;
+}
+#li{
+	margin-left:-10px;
+}
+
+/*******************************Media Css End***************/
+
+/*******Footer**********************/
+.footer{
+	background:#d2a960;
+	height:30px;
+	margin-top:50px;
+	padding-left:300px;
+	padding-top:35px;
+	padding-bottom:25px;
+}
+.footer1{
+	color:white;
+	margin-left:-40px;
+	margin-top:15px;
+}
+
+
+
+/********Contact Us Session*********************/
+
+	
+}
+.mencon ul{
+	list-style:none;
+	padding:0px;
+	margin-top:-5px;
+	margin-left:20px;	
+}
+.mencon ul li{
+	margin:0px;
+	padding-left:0px;
+	text-align:center;
+}
+.mencon ul li a{
+	font-size:15px;
+	color:#215b8f;
+	padding-right:0px;
+	font-family:arial;
+	line-height:50px;
+	width:150px;
+	display:block;
+	text-decoration:none;
+}
+.mencon ul li a:hover{
+    color:white;
+	background-color:#215b8f;
+	height:50px;
+	font-family:helvetica;
+	transition:0.5s linear;
+}
+
+#pcon{
+	font-size:35px;
+      left:180px;
+}
+#pullconbox{
+	margin-left:80px;
+	margin-top:-80px;
+}
+
+
+/********************Contact us Ending************/
+
+/******* About session Css***********/
+#about{
+	text-align:center;
+	font-family:Times;
+	height:400px;
+	background:#215b8f;
+	width:100%;
+}
+.aboutwidth{
+	width:100%;
+	margin-left:0px;
+	text-align:left;
+	margin-top:20px;
+	border:1px solid white;
+	height:130px;
+	padding:15px;
+	background:#2F9599;
+	color:white;
+}
+
+.pabout{
+	text-align:left;
+}
+.h1about{
+	text-align:center;
+}
+
+.h3about{
+	text-align:center;
+}
+.h3aboutlast{
+	text-align:center;
+	margin:15px;
+	color:white;
+	font-size:30px;
+}
+/********About us ending************/
+#formpara{
+	text-align:left;
+}
+#theForm{
+	color:white;
+	display:table;
+	padding:15px;
+	background-color:#2F9599;
+	margin-left:100px;
+	margin-right:20px;
+	position:relative;
+	width:500px;
+}
+.submit{
+	background-color:yellow;
+	border-radius:10px;
+	width:180px;
+	margin-left:200px;
+}
+.row{
+	display:table-row;	
+}
+.row label,p{
+	display:table-cell;
+	padding:2px;
+	text-align:right;
+	}
+.row input{
+display:table-cell;
+padding:2px;
+}
+#uuac1{
+	font-family:'lato';
+	height:1000px;
+	display:block;
+	background:#f1f1f1;
+	height:1000px;
+	padding:0px;
+	
+}
+#pform{
+	text-align:center;
+	color:white;
+	font-family:segoe arial helvetica;
+	color:black;
+	margin-left:-200px;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+
+.parabutton{
+	text-align:center;
+	margin:20px;
+	margin-left:180px;
+	
+}
+#button{
+	position:relative;
+	left:-80px;
+}
+
+/**********THE FORM ENDING******************************/
+
+
+/*********Footer1********************/
+@keyframes jatinder{
+	0%
+	{
+		left:0px;
+	}
+	20%{
+		left:0px;
+	}
+	25%{
+		left:-768px;
+	}
+	45%{
+		left:-1536px;
+	}
+	50%{
+		left:-2304px;
+	}
+		
+	100%{
+		left:-3072px;
+	}

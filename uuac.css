@@ -1,0 +1,472 @@
+body{
+	font-family:'lato';
+	height:1000px;
+	display:block;
+}
+.navbox{
+	background:#d2a960;
+	height:20px;
+}
+
+*{
+	margin:0px;
+}
+
+.navbox ul{
+	list-style:none;
+	margin:0px;
+	padding:0px
+}
+.navbox ul li{
+ margin-right:10px;
+ float:left;
+ border-right:1px dotted white;
+}
+.navbox ul li a{
+	color:white;
+	text-align:center;
+	padding:10px;
+	margin-right:10px
+}
+i{
+	margin-right:5px;
+}
+#dp{
+	height:105px;
+	width:19%;
+	opacity:0.8;
+}
+#pj{
+	width:81%;
+	margin-left:-5px;
+	height:105px;
+}
+.menu{
+    background:#d2a960;
+	height:50px;
+}
+.menu ul{
+	list-style:none;
+	padding:0px;
+	margin-top:-5px;
+	margin-left:100px;	
+}
+.menu ul li{
+	float:left;
+	margin:0px;
+	padding-left:0px;
+	border-right:1px solid white;
+	text-align:center;
+}
+.menu ul li a{
+	font-size:20px;
+	color:#215b8f;
+	padding-right:10px;
+	font-family:arial;
+	line-height:50px;
+	width:180px;
+	display:block;
+}
+.menu ul li a:hover{
+    color:white;
+	background-color:#215b8f;
+	height:50px;
+	font-family:helvetica;
+	transition:0.5s linear;
+}
+
+
+
+#outerbox{
+	width:100%;
+	overflow:hidden;
+	position:relative;
+	}
+#sliderbox{
+	position:relative;
+	width:3030px;
+	animation-name:jatinder;
+	animation-duration:25s;
+	animation-iteration-count:infinte;
+	margin-top:-50px;
+}
+
+#sliderbox img{
+	float:left;
+}
+
+.conbox{
+	border:1px solid white;
+	border-radius:2px;
+	width:180px;
+	color:red;
+	font-size:15px;
+	background-color:white;
+	position:relative;
+	height:60px;
+	top:200px;
+	margin-left:10px;
+}
+/*********THE FORM BEGINNING***************/
+#formpara{
+	color:red;
+	text-align:center;
+	margin-left:20px;
+}
+#theForm{
+	color:white;
+	display:table;
+	padding:15px;
+	background-color:#2F9599;
+	margin-left:200px;
+	position:relative;
+	width:600px;
+}
+.submit{
+	background-color:yellow;
+	border-radius:10px;
+	width:180px;
+	margin-left:200px;
+}
+.row{
+	display:table-row;	
+}
+.row label,p{
+	display:table-cell;
+	padding:2px;
+	text-align:right;
+	}
+.row input{
+display:table-cell;
+padding:2px;
+}
+#uuac1{
+	font-family:'lato';
+	height:1000px;
+	display:block;
+	background:#f1f1f1;
+	height:1000px;
+	padding:0px;
+	
+}
+#pform{
+	text-align:center;
+	color:white;
+	font-family:segoe arial helvetica;
+	color:black;
+	margin-left:-200px;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+
+.parabutton{
+	text-align:center;
+	margin:20px;
+	margin-left:180px;
+	
+}
+#button{
+	position:relative;
+	left:-80px;
+}
+
+/**********THE FORM ENDING******************************/
+
+
+.conus{
+	color:blue;
+}
+/******* About session Css***********/
+#about{
+	text-align:center;
+	font-family:Times;
+	height:400px;
+	background:#215b8f;
+	width:100%;
+}
+.aboutwidth{
+	width:800px;
+	margin-left:90px;
+	text-align:left;
+	margin-top:40px;
+	border:1px solid white;
+	height:130px;
+	padding:15px;
+	background:#2F9599;
+	color:white;
+}
+
+.pabout{
+	text-align:left;
+}
+.h1about{
+	text-align:center;
+}
+
+.h3about{
+	text-align:center;
+}
+.h3aboutlast{
+	text-align:center;
+	margin:15px;
+	color:white;
+	font-size:30px;
+}
+
+.block{
+	background:linear-gradient(
+	rgba(0,184,255,0.45),
+	rgba(0,184,255,0.45)
+	),
+	url(dnipro.jpg);
+	background-size:cover;
+	text-align:center;
+	display:block;
+	height:280px;
+	float:right;
+	position:relative;
+	width:50%;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-right:250px;
+}	
+
+	
+
+.mencon ul{
+	border:1px solid white;
+	background:white;
+	width:width;
+	list-style:none;
+	padding:0px;
+	margin-top:10px;
+	margin-left:20px;	
+	margin-right:20px;
+}
+.mencon ul li{
+	margin:0px;
+	padding-left:0px;
+	text-align:center;
+}
+.mencon ul li a{
+	font-size:15px;
+	color:#215b8f;
+	padding-right:0px;
+	font-family:arial;
+	line-height:40px;
+	width:200px;
+	display:block;
+	text-decoration:none;
+}
+.mencon ul li a:hover{
+    color:blue;
+	background:#215b8f;
+	display:block;
+	height:40;
+	font-family:arial;
+	transition:0.5s linear;
+}
+
+
+
+#uuac2{
+    background:url(ukraine.jpg);
+	background-size:cover;	
+}
+
+#pcon{
+	color:white;
+	position:relative;
+	left:220px;
+	top:70px;
+	font-size:50px;
+	font-family:Helvetica;
+}
+
+#pullconbox{
+	margin-left:220px;
+	margin-top:-50px;
+}
+.conbann{
+	width:100%;
+	float:left;
+}
+	
+#greeting{
+	line-height:50px;
+	color:white;
+	margin:auto;
+	margin-top:30px;
+}	
+.p1{
+	color: white;
+	font-size:15px;
+}
+.mm{
+	margin-left:150px;
+	}
+#box{
+	background:#2F9599;
+	height:420px;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	padding:10px;
+}	
+#ukr{
+	margin:20px;
+	float:left;
+}
+#hii{
+	margin-top:20px;
+	color:white;
+	font-family:arial;
+}
+
+#cont{
+	background:#215b8f;
+	}
+
+
+ins{
+	color:white;
+}
+.note{
+	color:white;
+}
+#motherbox{
+	width:90%;
+	height:300px;
+	margin-top:30px;
+	margin-left:100px;
+	padding-left:0px;
+	color:white;
+	
+}
+.sonbox{
+	height:270px;
+	background-color:#d2a960;
+	width:25%;
+	float:left;
+	padding-left:50px;
+	text-align:center;
+}
+
+.sonbox1{
+	height:270px;
+	background-color:#2F9599;
+	width:25%;
+	float:left;
+	padding-left:50px;
+	text-align:center;
+	color:white;
+}
+
+.sonbox2{
+	height:270px;
+	background-color:#d2a960;
+	width:25%;
+	float:left;
+	padding-left:50px;
+	text-align:center;
+	color:white;
+}
+.hiii{
+	margin-top:60px;
+}
+.hiiir{
+	margin-top:60px;
+    margin-bottom:-17px;
+}
+
+.call{
+	border:2px solid white;
+	width:180px;
+	height:50px;
+	margin-left:30px;
+	margin-top:20px;
+	padding-top:10px;
+	text-align:center;
+}
+.callb{
+	border:2px solid #d2a960;
+	width:100px;
+	height:50px;
+	margin-left:30px;
+	margin-top:20px;
+	padding-top:10px;
+	text-align:center;
+}
+.callc{
+	border:2px solid white;
+	width:180px;
+	height:50px;
+	margin-left:30px;
+	margin-top:0px;
+	padding-top:10px;
+	text-align:center;
+}
+.mention{
+	display:none;
+}
+#figcaptions{
+	margin-top:50px;
+	margin-left:15px;
+}
+.fig{
+	width:200px;
+	height:300px;
+	text-align:center;
+	float:left;
+	margin:5px;
+}
+ 
+.fig:hover{
+	background:white;
+	transition:0.5s linear;
+} 
+
+.footer{
+	background:#d2a960;
+	height:30px;
+	margin-top:50px;
+	padding-left:450px;
+	padding-top:35px;
+	padding-bottom:25px;
+}
+.footer1{
+	color:white;
+	margin-left:-40px;
+	margin-top:15px;
+}
+@keyframes jatinder{
+	0%
+	{
+		left:0px;
+	}
+	20%{
+		left:0px;
+	}
+	25%{
+		left:-600px;
+	}
+	45%{
+		left:-600px;
+	}
+	50%{
+		left:-1200px;
+	}
+		
+	100%{
+		left:-1880px;
+	}
+.mg{
+	width:50%;
+}	
+.hone{
+    margin:30px auto;
+}
+
+
